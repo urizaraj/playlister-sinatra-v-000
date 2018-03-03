@@ -42,4 +42,5 @@ a:hover {
 
 .nav a:hover {
   color: Lavender;
+  border: 1rem solid snow;
 }
