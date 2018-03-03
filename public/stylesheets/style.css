@@ -26,4 +26,5 @@ a:hover {
 .nav {
   background: crimson;
   padding: .5rem;
+  display: inline-block;
 }
