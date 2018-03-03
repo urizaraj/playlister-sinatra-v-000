@@ -8,10 +8,7 @@
 
 <% url = "/artists/#{song.artist.slug}" %>
 <h2>
-  Artist:
-<a href="<%= url %>">
-<%= song.artist.name %>
-</a>
+by <a href="<%= url %>"><%= song.artist.name %></a>
 </h2>
 
 <h2>Genres:</h2>
