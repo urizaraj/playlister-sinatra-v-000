@@ -34,3 +34,7 @@ a:hover {
   margin-left: 1rem;
   margin-right: 1rem;
 }
+
+.nav a:hover {
+  border-bottom: .1rem solid darkred;
+}
