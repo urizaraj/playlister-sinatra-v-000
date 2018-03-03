@@ -4,7 +4,7 @@
 
 <h2>Songs</h2>
 
-<% genre.songs.each do |song| %>
+<% genre.songs.order(:name).each do |song| %>
 
 <% url = "/songs/#{song.slug}" %>
 
