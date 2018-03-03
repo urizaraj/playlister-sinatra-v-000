@@ -35,6 +35,10 @@ a:hover {
   margin-right: 1rem;
 }
 
+.nav:hover {
+  background: lightcoral;
+}
+
 .nav a:hover {
-  border-bottom: .1rem solid darkred;
+  color: crimson;
 }
