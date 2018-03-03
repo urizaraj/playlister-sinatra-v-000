@@ -17,7 +17,7 @@
 <% end %>
 
 <h2>Artists</h2>
-<% genre.artists.each do |artist| %>
+<% genre.artists.order(:name).each do |artist| %>
 
 <% url = "/artists/#{artist.slug}" %>
 
