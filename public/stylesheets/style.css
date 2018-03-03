@@ -42,4 +42,5 @@ a:hover {
 
 .nav a:hover {
   color: Lavender;
+  transform: scale(1.1,1.1);
 }
