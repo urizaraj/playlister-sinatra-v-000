@@ -27,7 +27,7 @@ a:hover {
   background: crimson;
   padding: .5rem;
   display: inline-block;
-  transition: all .2s
+  transition: all .2s;
 }
 
 .nav a {
