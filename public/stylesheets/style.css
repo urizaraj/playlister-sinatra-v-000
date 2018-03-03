@@ -22,3 +22,8 @@ a:hover {
   margin-bottom: 1rem;
   display: inline-block;
 }
+
+.nav {
+  background: crimson;
+  padding: .5rem;
+}
